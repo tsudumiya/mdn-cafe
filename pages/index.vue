@@ -15,7 +15,7 @@
           :name="item.name"
           :body="item.body"
           :price="item.price"
-          item-class="md:w-56 mb-20 shadow-lg bg-gray-200"
+          item-class="md:w-56 mb-10 shadow-lg bg-gray-200"
           block-class="max-w"
           image-class="w-full"
           data-class="px-6 py-4"
